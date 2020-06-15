@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "Eddid-Socket.IO-Client-Swift"
   s.module_name  = "SocketIO"
-  s.version      = "15.2.0"
+  s.version      = "15.2.0.1"
   s.summary      = "Socket.IO-client for iOS and OS X"
   s.description  = <<-DESC
                    Socket.IO-client for iOS and OS X.
