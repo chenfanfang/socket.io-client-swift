@@ -1,5 +1,8 @@
 [![Build Status](https://travis-ci.org/socketio/socket.io-client-swift.svg?branch=master)](https://travis-ci.org/socketio/socket.io-client-swift)
 
+Fork from https://github.com/socketio/socket.io-client-swift.
+Fix java server response Invalid namespace.
+
 # Socket.IO-Client-Swift
 Socket.IO-client for iOS/OS X.
 
